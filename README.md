@@ -22,14 +22,6 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ---
 
-## 📸 Screenshot
-
-> _Include a screenshot here if you want._  
-> Example:
-> ![Calculator Screenshot](screenshot.png)
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository or [Download ZIP](https://github.com/your-username/calculator/archive/refs/heads/main.zip)
@@ -37,6 +29,6 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 3. Start calculating!
 
 ---
-
-## 📁 File Structure
+##--Made By--
+**Aryan Giri** 
 
