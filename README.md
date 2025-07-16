@@ -29,6 +29,7 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 3. Start calculating!
 
 ---
-##--Made By--
+#Made By
+
 **Aryan Giri** 
 
